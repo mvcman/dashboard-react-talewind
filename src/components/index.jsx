@@ -14,3 +14,4 @@ export { default as Bar } from "./Charts/Bar";
 export { default as LineCharts } from "./Charts/LineCharts";
 export { default as Pie } from "./Charts/Pie";
 export { default as Stacked } from "./Charts/Stacked";
+export { default as SparkLine } from "./Charts/SparkLine";
